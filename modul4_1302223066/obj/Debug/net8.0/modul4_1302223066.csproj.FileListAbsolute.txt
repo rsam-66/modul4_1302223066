@@ -1,0 +1,4 @@
+D:\modul4_1302223066\modul4_1302223066\obj\Debug\net8.0\modul4_1302223066.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul4_1302223066\modul4_1302223066\obj\Debug\net8.0\modul4_1302223066.AssemblyInfoInputs.cache
+D:\modul4_1302223066\modul4_1302223066\obj\Debug\net8.0\modul4_1302223066.AssemblyInfo.cs
+D:\modul4_1302223066\modul4_1302223066\obj\Debug\net8.0\modul4_1302223066.csproj.CoreCompileInputs.cache
